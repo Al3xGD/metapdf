@@ -1,6 +1,6 @@
 # METAPDF
 
-Obtén metadatos de archivos PDF sin descargo en tu ordenador.
+Obtén metadatos de archivos PDF sin descargarlo en tu ordenador todo en memoria.
 
 
 **Dependencias necesarias:**
